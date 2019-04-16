@@ -6,3 +6,4 @@ Blue
 Purple
 
 Yellow
+Pink
